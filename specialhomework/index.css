@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+
+button{
+    color: white;
+    border-radius: 25px;
+    background-color: red;
+    border-color: red;
+}
